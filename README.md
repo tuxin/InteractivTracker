@@ -1,2 +1,2 @@
-# InteractivTracker
-Follow your portfolio with InteractivTracker
+# TradesTracker
+Follow your portfolio with TradesTracker
